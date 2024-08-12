@@ -1,0 +1,17 @@
+form{
+    border: 5px solid rgb(138, 138, 236);
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(172, 172, 209);
+    margin: auto;
+    margin-top: 30px;
+    width: 500px;
+    margin-bottom: 30px;
+}
+body{
+background-color: aquamarine;}
+.card-body{
+    background-color: rgb(167, 167, 240);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
